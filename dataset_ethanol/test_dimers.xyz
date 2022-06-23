@@ -1,0 +1,1716 @@
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-22.24381190594901 distance=0.35 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        0.35000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-25.53700637233605 distance=0.4 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        0.40000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.750420694448557 distance=0.45 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        0.45000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-29.241361266763544 distance=0.5 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        0.50000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-30.23534548369415 distance=0.55 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        0.55000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-30.88034201934873 distance=0.6 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        0.60000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-31.276385134073312 distance=0.65 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        0.65000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-31.492698617686983 distance=0.7 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        0.70000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-31.57812203220406 distance=0.75 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        0.75000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-31.567740707044663 distance=0.8 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        0.80000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-31.4872007183138 distance=0.85 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        0.85000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-31.35555416944758 distance=0.9 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        0.90000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-31.187148007205607 distance=0.95 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        0.95000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-30.992891095751936 distance=1.0 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        1.00000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-30.78112173107036 distance=1.05 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        1.05000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-30.55822223507061 distance=1.1 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        1.10000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-30.329065544093826 distance=1.15 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        1.15000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-30.097358587106992 distance=1.2 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        1.20000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-29.8659034767224 distance=1.25 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        1.25000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-29.63680689218707 distance=1.3 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        1.30000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-29.411642394320783 distance=1.35 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        1.35000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-29.1915763349938 distance=1.4 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        1.40000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-28.97746620334819 distance=1.45 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        1.45000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-28.76993273999802 distance=1.5 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        1.50000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-28.569414334086684 distance=1.55 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        1.55000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-28.37620666850758 distance=1.6 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        1.60000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.905586156475398 distance=1.75 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        1.75000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.791270930531766 distance=1.8 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        1.80000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.69337546918138 distance=1.85 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        1.85000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.609704916150218 distance=1.9 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        1.90000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.538348019984664 distance=1.95 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        1.95000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.477618276177257 distance=2.0 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        2.00000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.426025634155295 distance=2.05 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        2.05000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.38225822453581 distance=2.1 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        2.10000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.345167902342013 distance=2.15 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        2.15000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.313757639451133 distance=2.2 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        2.20000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.287168040536326 distance=2.25 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        2.25000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.26466202234882 distance=2.3 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        2.30000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.245609663180097 distance=2.35 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        2.35000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.22947467537443 distance=2.4 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        2.40000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.215802143633404 distance=2.45 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        2.45000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.2042074116682 distance=2.5 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        2.50000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.19436661582097 distance=2.55 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        2.55000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.18600831786298 distance=2.6 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        2.60000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.178904683389774 distance=2.65 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        2.65000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.172862350033796 distance=2.7 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        2.70000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.1677157563754 distance=2.75 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        2.75000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.16332495545356 distance=2.8 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        2.80000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.15957535870674 distance=2.85 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        2.85000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.15637477523802 distance=2.9 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        2.90000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.153646446407787 distance=2.95 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        2.95000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.151321132871512 distance=3.0 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        3.00000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.14933360461028 distance=3.05 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        3.05000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.147626045973173 distance=3.1 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        3.10000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.146153661821412 distance=3.15 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        3.15000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.144885777820782 distance=3.2 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        3.20000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.143801098231734 distance=3.25 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        3.25000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.142879992515482 distance=3.3 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        3.30000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.14209819502739 distance=3.35 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        3.35000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.141426871249468 distance=3.4 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        3.40000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.14083942488186 distance=3.45 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        3.45000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.14031884042719 distance=3.5 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        3.50000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.13985938379336 distance=3.55 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        3.55000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.1394622598189 distance=3.6 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        3.60000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.13912867826761 distance=3.65 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        3.65000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.138853704681175 distance=3.7 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        3.70000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.138624199742523 distance=3.75 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        3.75000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.13842261706015 distance=3.8 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        3.80000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.138234337507384 distance=3.85 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        3.85000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.13805431097752 distance=3.9 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        3.90000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.137887048002696 distance=3.95 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        3.95000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.137740945037024 distance=4.0 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        4.00000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.137622110356386 distance=4.05 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        4.05000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.137529835566767 distance=4.1 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        4.10000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.13745799094972 distance=4.15 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        4.15000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.13739802587141 distance=4.2 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        4.20000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.13734055370981 distance=4.25 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        4.25000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.13727900563633 distance=4.3 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        4.30000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.137213949661444 distance=4.35 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        4.35000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.137152117528306 distance=4.4 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        4.40000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.137101641686165 distance=4.45 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        4.45000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.137063519132997 distance=4.5 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        4.50000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.137034040249386 distance=4.55 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        4.55000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.137010721724245 distance=4.6 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        4.60000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.136992054141995 distance=4.65 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        4.65000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.136976508413216 distance=4.7 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        4.70000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.136962767098655 distance=4.75 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        4.75000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.136946500594682 distance=4.8 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        4.80000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.136926709481514 distance=4.85 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        4.85000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.13691103830825 distance=4.9 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        4.90000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.1369001842578 distance=4.95 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        4.95000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HH energy=-27.136891290597237 distance=5.0 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+H        5.00000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1034.3849239989522 distance=0.65 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        0.65000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1037.3581454163118 distance=0.7 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        0.70000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1039.554445565927 distance=0.75 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        0.75000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1041.165404683509 distance=0.8 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        0.80000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1042.3323759570674 distance=0.85 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        0.85000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1043.1611415092145 distance=0.9 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        0.90000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1043.7320165821986 distance=0.95 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        0.95000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1044.1064681939902 distance=1.0 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        1.00000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1044.331853306672 distance=1.05 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        1.05000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1044.4446494764472 distance=1.1 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        1.10000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1044.472986488557 distance=1.15 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        1.15000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1044.4384554655194 distance=1.2 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        1.20000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1044.3575828087505 distance=1.25 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        1.25000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1044.2429466673395 distance=1.3 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        1.30000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1044.1040754693065 distance=1.35 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        1.35000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1043.9481396565875 distance=1.4 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        1.40000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1043.7802876632834 distance=1.45 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        1.45000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1043.6047460290288 distance=1.5 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        1.50000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1043.4248707292732 distance=1.55 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        1.55000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1043.2432636700805 distance=1.6 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        1.60000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1043.0619485113714 distance=1.65 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        1.65000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1042.8825170709824 distance=1.7 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        1.70000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1042.7062467169803 distance=1.75 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        1.75000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1042.5341897539354 distance=1.8 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        1.80000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1042.3672752940245 distance=1.85 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        1.85000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1042.206446571018 distance=1.9 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        1.90000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1042.052860924865 distance=1.95 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        1.95000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1041.9081461049216 distance=2.0 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        2.00000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1041.7744038734465 distance=2.05 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        2.05000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1041.6534579056936 distance=2.1 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        2.10000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1041.5459673457874 distance=2.15 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        2.15000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1041.4514718917458 distance=2.2 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        2.20000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1041.3689309188865 distance=2.25 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        2.25000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1041.29711990107 distance=2.3 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        2.30000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1041.2348185923706 distance=2.35 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        2.35000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1041.180883233335 distance=2.4 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        2.40000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1041.1342702203697 distance=2.45 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        2.45000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1041.094042334345 distance=2.5 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        2.50000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1041.0593660783713 distance=2.55 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        2.55000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1041.0295022416503 distance=2.6 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        2.60000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1041.0037958198886 distance=2.65 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        2.65000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1040.9816695414638 distance=2.7 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        2.70000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1040.9626187592767 distance=2.75 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        2.75000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1040.9462038325412 distance=2.8 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        2.80000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1040.932041295603 distance=2.85 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        2.85000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1040.9197983820827 distance=2.9 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        2.90000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1040.9091913369525 distance=2.95 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        2.95000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1040.8999830319494 distance=3.0 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        3.00000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1040.891975216045 distance=3.05 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        3.05000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1040.884997690019 distance=3.1 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        3.10000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1040.8789007212613 distance=3.15 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        3.15000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1040.873554469473 distance=3.2 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        3.20000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1040.8688526842873 distance=3.25 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        3.25000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1040.8647133225313 distance=3.3 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        3.30000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1040.8610725993565 distance=3.35 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        3.35000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1040.8578747476658 distance=3.4 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        3.40000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1040.8550636471057 distance=3.45 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        3.45000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1040.852581024057 distance=3.5 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        3.50000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1040.8396057492253 distance=3.95 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        3.95000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1040.8388090175024 distance=4.0 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        4.00000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1040.8380735881617 distance=4.05 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        4.05000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1040.8368265908864 distance=4.15 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        4.15000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1040.8363262757034 distance=4.2 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        4.20000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1040.8358948913149 distance=4.25 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        4.25000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1040.8355115765473 distance=4.3 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        4.30000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1040.8351589381007 distance=4.35 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        4.35000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1040.834832274119 distance=4.4 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        4.40000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1040.8345304879838 distance=4.45 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        4.45000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1040.8342527162777 distance=4.5 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        4.50000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1040.834000378238 distance=4.55 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        4.55000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1040.8337773858548 distance=4.6 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        4.60000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1040.8335873975084 distance=4.65 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        4.65000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1040.8334247655034 distance=4.7 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        4.70000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1040.833021931791 distance=4.85 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        4.85000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1040.832919986891 distance=4.9 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        4.90000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HC energy=-1040.832832695105 distance=4.95 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+C        4.95000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2046.734648013909 distance=0.6 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        0.60000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2050.261019250639 distance=0.65 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        0.65000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.6817199147836 distance=0.7 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        0.70000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2054.317714649706 distance=0.75 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        0.75000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2055.3941766190383 distance=0.8 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        0.80000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2056.0701532610815 distance=0.85 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        0.85000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2056.458916210623 distance=0.9 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        0.90000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2056.641845277208 distance=0.95 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        0.95000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2056.677739035628 distance=1.0 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        1.00000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2056.6093382129816 distance=1.05 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        1.05000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2056.4677273063435 distance=1.1 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        1.10000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2056.27566345758 distance=1.15 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        1.15000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2056.049811074297 distance=1.2 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        1.20000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2055.802499571338 distance=1.25 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        1.25000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2055.5428901996684 distance=1.3 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        1.30000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2055.2778185066154 distance=1.35 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        1.35000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2055.0124428822714 distance=1.4 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        1.40000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2054.7506480864204 distance=1.45 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        1.45000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2054.495437324742 distance=1.5 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        1.50000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2054.2492758266853 distance=1.55 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        1.55000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2054.0144589098054 distance=1.6 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        1.60000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2053.793537398054 distance=1.65 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        1.65000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2053.5894767653685 distance=1.7 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        1.70000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2053.4049485954515 distance=1.75 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        1.75000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2053.241140284996 distance=1.8 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        1.80000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2053.097519080562 distance=1.85 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        1.85000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.9724886505414 distance=1.9 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        1.90000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.8640252271216 distance=1.95 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        1.95000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.7700424179593 distance=2.0 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        2.00000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.688572013572 distance=2.05 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        2.05000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.617839943293 distance=2.1 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        2.10000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.5562894911577 distance=2.15 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        2.15000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.502583465711 distance=2.2 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        2.20000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.45559131498 distance=2.25 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        2.25000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.4143629282785 distance=2.3 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        2.30000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.3780985437884 distance=2.35 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        2.35000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.3461249083884 distance=2.4 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        2.40000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.31787710225 distance=2.45 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        2.45000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.2928810580743 distance=2.5 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        2.50000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.2707368495503 distance=2.55 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        2.55000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.251104042946 distance=2.6 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        2.60000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.2336903675664 distance=2.65 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        2.65000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.2182412263915 distance=2.7 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        2.70000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.204532573059 distance=2.75 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        2.75000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.1923696341287 distance=2.8 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        2.80000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.1815878548655 distance=2.85 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        2.85000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.1720471978306 distance=2.9 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        2.90000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.163618126513 distance=2.95 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        2.95000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.156169848625 distance=3.0 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        3.00000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.1495762030368 distance=3.05 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        3.05000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.143732073226 distance=3.1 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        3.10000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.1385597696244 distance=3.15 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        3.15000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.1339980710213 distance=3.2 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        3.20000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.129986466941 distance=3.25 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        3.25000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.126458099633 distance=3.3 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        3.30000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.123349823308 distance=3.35 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        3.35000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.1206128128215 distance=3.4 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        3.40000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.118204154728 distance=3.45 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        3.45000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.1160818221583 distance=3.5 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        3.50000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.1142022663917 distance=3.55 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        3.55000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.1125276009593 distance=3.6 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        3.60000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.1110404830392 distance=3.65 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        3.65000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.1097404848956 distance=3.7 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        3.70000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.108618997662 distance=3.75 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        3.75000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.1076510053394 distance=3.8 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        3.80000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.10680884829 distance=3.85 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        3.85000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.106070091487 distance=3.9 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        3.90000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.105419185391 distance=3.95 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        3.95000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.104848955994 distance=4.0 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        4.00000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.1043516610844 distance=4.05 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        4.05000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.1039221986907 distance=4.1 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        4.10000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.1035523412597 distance=4.15 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        4.15000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.1032348534745 distance=4.2 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        4.20000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.1029663557897 distance=4.25 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        4.25000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.102736576016 distance=4.3 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        4.30000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.1023919496897 distance=4.4 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        4.40000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.1022491834115 distance=4.45 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        4.45000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.102120626946 distance=4.5 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        4.50000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.102017684912 distance=4.55 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        4.55000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.1017924628823 distance=4.7 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        4.70000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.101749175282 distance=4.75 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        4.75000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.101712686582 distance=4.8 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        4.80000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.101652328326 distance=4.9 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        4.90000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=HO energy=-2052.101602986845 distance=5.0 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+O        5.00000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2038.6516531513935 distance=0.8 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        0.80000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2045.4883569548504 distance=0.85 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        0.85000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2050.557914716492 distance=0.9 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        0.90000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2054.2584503990665 distance=0.95 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        0.95000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2056.9031698191657 distance=1.0 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        1.00000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2058.734969511878 distance=1.05 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        1.05000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2059.942994370574 distance=1.1 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        1.10000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2060.673975750987 distance=1.15 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        1.15000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2061.288605593303 distance=1.25 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        1.25000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2061.3832493405553 distance=1.3 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        1.30000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2061.3221926688702 distance=1.35 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        1.35000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2061.1478759568445 distance=1.4 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        1.40000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2060.893475131785 distance=1.45 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        1.45000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2060.5848355748863 distance=1.5 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        1.50000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2060.2418925412403 distance=1.55 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        1.55000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2059.8796489334823 distance=1.6 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        1.60000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2059.216033232958 distance=1.7 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        1.70000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2058.933104361111 distance=1.75 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        1.75000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2058.6470322310147 distance=1.8 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        1.80000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2058.3618191753417 distance=1.85 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        1.85000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2058.080256377332 distance=1.9 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        1.90000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2057.804328283885 distance=1.95 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        1.95000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2057.535497060051 distance=2.0 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        2.00000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2057.2747582599673 distance=2.05 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        2.05000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2057.0227354833487 distance=2.1 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        2.10000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2056.779847265802 distance=2.15 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        2.15000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2056.546363750702 distance=2.2 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        2.20000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2056.3223859073655 distance=2.25 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        2.25000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2056.1078897594334 distance=2.3 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        2.30000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2055.912241834117 distance=2.35 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        2.35000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2055.7695064120267 distance=2.4 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        2.40000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2055.646062678388 distance=2.45 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        2.45000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2055.5323952615304 distance=2.5 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        2.50000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2055.428029380156 distance=2.55 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        2.55000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2055.332584456256 distance=2.6 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        2.60000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2055.245720773907 distance=2.65 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        2.65000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2055.1670871718875 distance=2.7 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        2.70000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2055.0962882039394 distance=2.75 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        2.75000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2055.032868840832 distance=2.8 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        2.80000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2054.9763148835063 distance=2.85 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        2.85000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2054.926064998022 distance=2.9 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        2.90000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2054.8815301300087 distance=2.95 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        2.95000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2054.8421210226165 distance=3.0 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        3.00000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2054.8072771887505 distance=3.05 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        3.05000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2054.7764850711606 distance=3.1 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        3.10000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2054.749280615495 distance=3.15 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        3.15000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2054.7252428268093 distance=3.2 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        3.20000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2054.7039885721624 distance=3.25 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        3.25000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2054.6685070314916 distance=3.35 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        3.35000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2054.6537290525407 distance=3.4 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        3.40000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2054.6406208555845 distance=3.45 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        3.45000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2054.6289847875923 distance=3.5 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        3.50000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2054.618640734875 distance=3.55 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        3.55000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2054.6094279957224 distance=3.6 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        3.60000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2054.6012090228637 distance=3.65 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        3.65000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2054.593868122683 distance=3.7 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        3.70000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2054.5873053943997 distance=3.75 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        3.75000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2054.5814306832635 distance=3.8 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        3.80000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2054.5761606006886 distance=3.85 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        3.85000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2054.5714202766153 distance=3.9 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        3.90000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2054.5671463694407 distance=3.95 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        3.95000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2054.563286864409 distance=4.0 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        4.00000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2054.553790960335 distance=4.15 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        4.15000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2054.551204112943 distance=4.2 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        4.20000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2054.5488564354573 distance=4.25 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        4.25000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2054.546737189965 distance=4.3 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        4.30000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2054.5448100232516 distance=4.35 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        4.35000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2054.543054299046 distance=4.4 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        4.40000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2054.5414710159794 distance=4.45 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        4.45000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2054.5400943841237 distance=4.5 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        4.50000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2054.538885081094 distance=4.55 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        4.55000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2054.5377760188244 distance=4.6 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        4.60000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2054.5358495473897 distance=4.7 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        4.70000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2054.535016517229 distance=4.75 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        4.75000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2054.5342653258017 distance=4.8 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        4.80000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2054.5335845783125 distance=4.85 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        4.85000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2054.5329696320364 distance=4.9 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        4.90000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CC energy=-2054.532437840219 distance=4.95 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+C        4.95000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CO energy=-3051.486728344924 distance=0.75 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+O        0.75000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CO energy=-3060.5354906115103 distance=0.8 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+O        0.80000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CO energy=-3066.8682440543957 distance=0.85 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+O        0.85000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CO energy=-3071.208503888511 distance=0.9 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+O        0.90000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CO energy=-3074.0932441714167 distance=0.95 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+O        0.95000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CO energy=-3075.9192227816 distance=1.0 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+O        1.00000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CO energy=-3076.9771423198854 distance=1.05 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+O        1.05000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CO energy=-3077.4815290640395 distance=1.1 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+O        1.10000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CO energy=-3077.5899237732397 distance=1.15 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+O        1.15000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CO energy=-3077.418974274095 distance=1.2 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+O        1.20000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CO energy=-3077.055011359102 distance=1.25 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+O        1.25000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CO energy=-3076.5615962011398 distance=1.3 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+O        1.30000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CO energy=-3075.986027093208 distance=1.35 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+O        1.35000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CO energy=-3075.362674787499 distance=1.4 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+O        1.40000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CO energy=-3074.716574681431 distance=1.45 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+O        1.45000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CO energy=-3074.065706120567 distance=1.5 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+O        1.50000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CO energy=-3073.4224397877497 distance=1.55 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+O        1.55000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CO energy=-3072.795214337601 distance=1.6 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+O        1.60000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CO energy=-3072.1895679461295 distance=1.65 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+O        1.65000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CO energy=-3071.6088052302302 distance=1.7 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+O        1.70000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CO energy=-3071.0603613643134 distance=1.75 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+O        1.75000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CO energy=-3070.564698503524 distance=1.8 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+O        1.80000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CO energy=-3070.1180698140784 distance=1.85 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+O        1.85000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CO energy=-3069.7150847996177 distance=1.9 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+O        1.90000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CO energy=-3069.351197135155 distance=1.95 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+O        1.95000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CO energy=-3069.0224618566954 distance=2.0 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+O        2.00000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CO energy=-3068.7252984062825 distance=2.05 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+O        2.05000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CO energy=-3068.456433107698 distance=2.1 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+O        2.10000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CO energy=-3068.2129100494676 distance=2.15 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+O        2.15000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CO energy=-3067.9920241056375 distance=2.2 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+O        2.20000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CO energy=-3067.7912682743968 distance=2.25 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+O        2.25000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CO energy=-3067.608398147782 distance=2.3 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+O        2.30000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CO energy=-3067.4414748763343 distance=2.35 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+O        2.35000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CO energy=-3067.1488965819913 distance=2.45 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+O        2.45000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CO energy=-3066.9024113108903 distance=2.55 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+O        2.55000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CO energy=-3066.794560575065 distance=2.6 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+O        2.60000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CO energy=-3066.696028779262 distance=2.65 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+O        2.65000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CO energy=-3066.018698708947 distance=3.25 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+O        3.25000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CO energy=-3065.8492616673184 distance=3.85 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+O        3.85000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CO energy=-3065.843644639981 distance=3.9 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+O        3.90000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CO energy=-3065.82598389942 distance=4.1 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+O        4.10000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CO energy=-3065.8195041105164 distance=4.2 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+O        4.20000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=CO energy=-3065.8143060267116 distance=4.3 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+O        4.30000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4068.8953067295 distance=0.85 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        0.85000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4074.0580213115527 distance=0.9 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        0.90000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4077.607946377516 distance=0.95 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        0.95000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4079.9848394099936 distance=1.0 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        1.00000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4081.5133914051567 distance=1.05 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        1.05000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4082.4322132262123 distance=1.1 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        1.10000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4082.916855665652 distance=1.15 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        1.15000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4083.095235315493 distance=1.2 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        1.20000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4083.0606607401696 distance=1.25 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        1.25000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4082.879950616696 distance=1.3 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        1.30000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4082.600877833845 distance=1.35 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        1.35000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4082.257248664202 distance=1.4 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        1.40000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4081.8728425613517 distance=1.45 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        1.45000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4081.4649170551543 distance=1.5 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        1.50000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4081.0459060213734 distance=1.55 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        1.55000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4080.6250037163977 distance=1.6 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        1.60000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4080.209138124361 distance=1.65 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        1.65000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4079.803256878491 distance=1.7 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        1.70000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4079.410849025834 distance=1.75 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        1.75000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4079.036498946091 distance=1.8 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        1.80000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4078.7120801020665 distance=1.85 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        1.85000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4078.4418315060066 distance=1.9 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        1.90000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4078.2183254679408 distance=1.95 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        1.95000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4078.0340100746807 distance=2.0 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        2.00000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4077.8818737292877 distance=2.05 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        2.05000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4077.7559100770836 distance=2.1 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        2.10000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4077.6511885840373 distance=2.15 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        2.15000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4077.5637339034192 distance=2.2 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        2.20000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4077.490380127826 distance=2.25 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        2.25000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4077.4286392649424 distance=2.3 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        2.30000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4077.3765384946682 distance=2.35 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        2.35000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4077.332463324164 distance=2.4 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        2.40000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4077.295075501819 distance=2.45 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        2.45000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4077.2637305345534 distance=2.5 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        2.50000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4077.240324798473 distance=2.55 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        2.55000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4077.220180006157 distance=2.6 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        2.60000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4077.202737434952 distance=2.65 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        2.65000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4077.187545126812 distance=2.7 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        2.70000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4077.1742451927967 distance=2.75 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        2.75000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4077.162558493803 distance=2.8 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        2.80000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4077.152248053433 distance=2.85 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        2.85000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4077.143101611122 distance=2.9 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        2.90000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4077.1349308037225 distance=2.95 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        2.95000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4077.1275714200447 distance=3.0 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        3.00000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4077.1214329512018 distance=3.05 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        3.05000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4077.1162876854587 distance=3.1 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        3.10000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4077.111343381762 distance=3.15 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        3.15000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4077.1065608657814 distance=3.2 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        3.20000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4077.1020039962737 distance=3.25 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        3.25000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4077.090786967326 distance=3.4 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        3.40000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4077.087780046448 distance=3.45 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        3.45000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 config_type=OO energy=-4077.084960512889 distance=3.5 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        3.50000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 distance=3.55 config_type=OO energy=-4077.0823366805703 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        3.55000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 distance=3.85 config_type=OO energy=-4077.0726822032334 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        3.85000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 distance=4.7 config_type=OO energy=-4077.067294149504 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        4.70000000       0.00000000       0.00000000
+2
+Lattice="50.0 0.0 0.0 0.0 50.0 0.0 0.0 0.0 50.0" Properties=species:S:1:pos:R:3 distance=4.75 config_type=OO energy=-4077.0672274285735 pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+O        4.75000000       0.00000000       0.00000000
