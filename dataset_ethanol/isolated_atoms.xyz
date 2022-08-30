@@ -7,3 +7,6 @@ C        0.00000000       0.00000000       0.00000000
 1
 Properties=species:S:1:pos:R:3 config_type=isolated_atom energy=-2035.5709809589698 pbc="F F F"
 O        0.00000000       0.00000000       0.00000000
+1
+Properties=species:S:1:pos:R:3 config_type=isolated_atom energy=-1479.0665594928669 pbc="F F F"
+N        0.00000000       0.00000000       0.00000000
